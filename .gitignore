@@ -1,0 +1,23 @@
+# Competitive Programming Helper
+.cph/
+
+# VS Code settings
+.vscode/
+
+# Compiled Binaries and Executables
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Java compiled files
+*.class
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+Thumbs.db
+.DS_Store
